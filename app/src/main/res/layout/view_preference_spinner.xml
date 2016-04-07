@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="6dp"
+            android:layout_marginTop="6dp"
+            android:columnCount="2">
+
+    <TextView
+        android:id="@android:id/title"
+        style="@style/Widget.DebugDrawer.RowTitle"
+        android:layout_marginStart="15dp"
+        android:layout_columnSpan="1"
+        android:layout_gravity="start|center_vertical"
+        android:layout_marginLeft="15dp"/>
+
+    <android.support.v7.widget.AppCompatSpinner
+        android:id="@+id/spinner"
+        style="@style/Widget.DebugDrawer.RowWidget"
+        android:layout_marginEnd="15dp"
+        android:layout_columnSpan="1"
+        android:layout_gravity="start|center_vertical|fill_horizontal"
+        android:layout_marginRight="15dp"/>
+
+</GridLayout>
