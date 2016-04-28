@@ -25,6 +25,10 @@
             android:name=".demo.heroimage.HeroImageFirstActivity">
         </activity>
 
+        <activity
+            android:name=".demo.heroimage.HeroImageSecondActivity">
+        </activity>
+
     </application>
 
 </manifest>
