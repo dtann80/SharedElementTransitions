@@ -1,14 +1,14 @@
-package com.dantann.recylerviewtemplate.demo.heroimage;
+package com.dantann.sharedelement.demo.heroimage;
 
-import android.app.Activity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.dantann.recylerviewtemplate.R;
-import com.dantann.recylerviewtemplate.framework.ThrottledOnClickListener;
+import com.dantann.sharedelement.R;
+import com.dantann.sharedelement.framework.ThrottledOnClickListener;
 
-public class HeroImageFirstActivity extends Activity {
+public class HeroImageFirstActivity extends AppCompatActivity {
 
     private ImageView heroView;
 
@@ -23,7 +23,7 @@ public class HeroImageFirstActivity extends Activity {
             @Override
             public void onClick(View v) {
                 super.onClick(v);
-                HeroImageSecondActivity.startActivityWithAnimation(HeroImageFirstActivity.this,heroView);
+                HeroImageSecondActivity.startActivityWithHeroAnimation(HeroImageFirstActivity.this,heroView);
             }
         });
     }

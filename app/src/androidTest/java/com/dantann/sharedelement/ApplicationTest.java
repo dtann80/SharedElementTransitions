@@ -1,4 +1,4 @@
-package com.dantann.recylerviewtemplate;
+package com.dantann.sharedelement;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

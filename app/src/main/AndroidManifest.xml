@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.dantann.recylerviewtemplate" >
+    package="com.dantann.sharedelement" >
 
     <application
         android:allowBackup="true"
-        android:name=".MyApp"
+        android:name="com.dantann.sharedelement.MyApp"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".demo.MainChooserActivity"
+            android:name="com.dantann.sharedelement.demo.MainChooserActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme" >
             <intent-filter>
@@ -22,11 +22,15 @@
 
 
         <activity
-            android:name=".demo.heroimage.HeroImageFirstActivity">
+            android:name="com.dantann.sharedelement.demo.heroimage.HeroImageFirstActivity"
+            android:label="First Activity"
+            android:theme="@style/AppTheme">
         </activity>
 
         <activity
-            android:name=".demo.heroimage.HeroImageSecondActivity">
+            android:name="com.dantann.sharedelement.demo.heroimage.HeroImageSecondActivity"
+            android:label="Second Activity"
+            android:theme="@style/AppTheme">
         </activity>
 
     </application>

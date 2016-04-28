@@ -1,7 +1,7 @@
-package com.dantann.recylerviewtemplate;
+package com.dantann.sharedelement;
 
-import com.dantann.recylerviewtemplate.framework.BaseApplication;
-import com.dantann.recylerviewtemplate.framework.DebugTree;
+import com.dantann.sharedelement.framework.BaseApplication;
+import com.dantann.sharedelement.framework.DebugTree;
 
 import timber.log.Timber;
 

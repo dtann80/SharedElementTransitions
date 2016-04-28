@@ -1,4 +1,4 @@
-package com.dantann.recylerviewtemplate.framework;
+package com.dantann.sharedelement.framework;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -12,7 +12,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.Spinner;
 
-import com.dantann.recylerviewtemplate.R;
+import com.dantann.sharedelement.R;
 import com.jakewharton.processphoenix.ProcessPhoenix;
 
 

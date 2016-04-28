@@ -1,4 +1,4 @@
-package com.dantann.recylerviewtemplate.util;
+package com.dantann.sharedelement.util;
 
 
 import android.content.res.Resources;

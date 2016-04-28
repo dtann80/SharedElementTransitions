@@ -1,4 +1,4 @@
-package com.dantann.recylerviewtemplate.framework;
+package com.dantann.sharedelement.framework;
 
 import android.annotation.SuppressLint;
 import android.content.SharedPreferences;

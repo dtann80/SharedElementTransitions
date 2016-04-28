@@ -1,4 +1,4 @@
-package com.dantann.recylerviewtemplate.demo;
+package com.dantann.sharedelement.demo;
 
 import android.content.Context;
 import android.content.Intent;
@@ -10,12 +10,12 @@ import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.dantann.recylerviewtemplate.R;
-import com.dantann.recylerviewtemplate.demo.heroimage.HeroImageFirstActivity;
-import com.dantann.recylerviewtemplate.framework.BaseViewHolder;
-import com.dantann.recylerviewtemplate.framework.PresenterAdapter;
-import com.dantann.recylerviewtemplate.framework.SpacesItemDecoration;
-import com.dantann.recylerviewtemplate.framework.ViewHolderPresenter;
+import com.dantann.sharedelement.R;
+import com.dantann.sharedelement.demo.heroimage.HeroImageFirstActivity;
+import com.dantann.sharedelement.framework.BaseViewHolder;
+import com.dantann.sharedelement.framework.PresenterAdapter;
+import com.dantann.sharedelement.framework.SpacesItemDecoration;
+import com.dantann.sharedelement.framework.ViewHolderPresenter;
 
 import java.util.ArrayList;
 import java.util.List;

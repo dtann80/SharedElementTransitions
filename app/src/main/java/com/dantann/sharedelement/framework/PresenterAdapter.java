@@ -1,4 +1,4 @@
-package com.dantann.recylerviewtemplate.framework;
+package com.dantann.sharedelement.framework;
 
 
 import android.support.annotation.Nullable;
@@ -6,7 +6,7 @@ import android.support.v4.util.ArrayMap;
 import android.support.v7.widget.RecyclerView;
 import android.view.ViewGroup;
 
-import static com.dantann.recylerviewtemplate.util.Preconditions.checkNotNull;
+import static com.dantann.sharedelement.util.Preconditions.checkNotNull;
 
 
 /**

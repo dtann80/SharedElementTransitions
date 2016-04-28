@@ -1,4 +1,4 @@
-package com.dantann.recylerviewtemplate.framework;
+package com.dantann.sharedelement.framework;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;

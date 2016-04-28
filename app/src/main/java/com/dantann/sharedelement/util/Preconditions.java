@@ -1,4 +1,4 @@
-package com.dantann.recylerviewtemplate.util;
+package com.dantann.sharedelement.util;
 
 /*
  * Copyright (C) 2007 The Guava Authors

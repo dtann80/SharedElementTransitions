@@ -1,4 +1,4 @@
-package com.dantann.recylerviewtemplate.demo;
+package com.dantann.sharedelement.demo;
 
 
 import android.content.Context;
@@ -8,8 +8,8 @@ import android.util.AttributeSet;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.dantann.recylerviewtemplate.R;
-import com.dantann.recylerviewtemplate.util.MaterialColorPalette;
+import com.dantann.sharedelement.R;
+import com.dantann.sharedelement.util.MaterialColorPalette;
 
 public class SimpleCardView extends CardView {
 

@@ -9,4 +9,15 @@
         android:layout_height="wrap_content"
         android:scaleType="centerCrop"
         android:layout_gravity="top"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:text="Click on Image!"
+        android:layout_marginBottom="16dp"
+        android:textStyle="bold"
+        android:textSize="36sp"/>
+
+
 </FrameLayout>
