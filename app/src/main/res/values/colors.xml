@@ -7,4 +7,14 @@
     <color name="body_text_1">#de000000</color>
     <color name="body_text_2">#8a000000</color>
     <color name="body_text_3">#60000000</color>
+
+    <color name="video_bg">#262626</color>
+    <color name="transparent_black">#CC000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_black_divider">#33000000</color>
+    <color name="sample_card_background">#EB6642</color>
+
+    <!-- Selector -->
+    <color name="default_select_background">#44000000</color>
+
 </resources>
